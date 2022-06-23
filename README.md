@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Khin Nyein Chan</h1>
 <h3 align="center">A frontend developer from Myanmar</h3>
-- 😄 Pronouns: Chan
-- 🌱 I’m currently learning **morden Front-end & Block-Chain**
+- 😄 Pronouns: Chan<br>
+- 🌱 I’m currently learning **morden Front-end & Block-Chain**<br>
 - 📫 How to reach me **shan02001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
