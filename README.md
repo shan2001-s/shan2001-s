@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Front-end Developer 👋
+- 😄 Pronouns: Chan
+- 🌱 I’m currently learning Moderl Front-end & Block-Chain
+-  📫 How to reach me: sshan02001@gmail.com
 
 <!--
 **shan2001-s/shan2001-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
