@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Khin Nyein Chan</h1>
-<h3 align="center">A frontend developer from Myanmar</h3>
+<h3 align="center">A frontend BlockChain developer from Myanmar</h3>
 
 
 - 😄 Pronouns: **Chan**
