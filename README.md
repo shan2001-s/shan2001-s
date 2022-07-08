@@ -2,6 +2,7 @@
 - 😄 Pronouns: Chan
 - 🌱 I’m currently learning Moderl Front-end & Block-Chain
 -  📫 How to reach me: sshan02001@gmail.com
+-  ⚡ How to reach me: sshan02001@gmail.com
 
 
 **shan2001-s/shan2001-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
 <h1 align="center">Hi 👋, I'm Khin Nyein Chan</h1>
 <h3 align="center">A frontend BlockChain developer from Myanmar</h3>
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **morden Front-end & Block-Chain**
 
 - 📫 How to reach me: **shan02001@gmail.com**
+- ⚡ test: **https://shan2001-s.github.io/shopping-card/**
 
 
 <h3 align="left">Connect with me:</h3>
