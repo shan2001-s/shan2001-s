@@ -1,4 +1,4 @@
-<!--### Hi I'm Web Blockchain Developer 👋
+<!--### Hi I'm Front-end Developer 👋
 - 😄 Pronouns: Chan
 - 🌱 I’m currently learning Moderl Front-end & Block-Chain
 -  📫 How to reach me: sshan02001@gmail.com
