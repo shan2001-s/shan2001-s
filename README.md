@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **morden Front-end & Block-Chain**
 
 - 📫 How to reach me: **shan02001@gmail.com**
-- ⚡ test: **https://shan2001-s.github.io/shopping-card/**
-- ⚡ test: **https://shan2001-s.github.io/smartwallet/**
+- ⚡ created: **https://shan2001-s.github.io/shopping-card/**
+- ⚡ created: **https://shan2001-s.github.io/smartwallet/**
 
 
 <h3 align="left">Connect with me:</h3>
